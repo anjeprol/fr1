@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2dff22"
+    tools:context="com.example.prolan.fr1.f2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/txtV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="no calls"
+        android:layout_margin="20dp"
+        android:textSize="30sp"
+        />
+
+</FrameLayout>
